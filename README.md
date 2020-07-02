@@ -6,5 +6,5 @@ For example : I have 4 different versions of package(x64 release, x64 debug, x86
 
 -Download Nuget.exe and put it also in this directory.</br>
 -Put all the files in the same Directory of your project directory (Example: if the project directory is "D://Myproject" put all the files(Nuget.exe, nuspec, props and targets in "D://")</br>
--Make sure the name of all the files is the same name 
+-Make sure the name of all the files (Nuspec, Props, Targets) is the same name 
 
