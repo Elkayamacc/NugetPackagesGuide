@@ -17,7 +17,7 @@
 		
 		<files>
 		
-		<!-- In order to reference dll we need to first put this line-->
+		<!-- In order to reference dll we need to put this line-->
 		
 			<file src="MyProjectFolder\bin32_d\MyDllToReference.dll" target="lib\net45" />
 		
